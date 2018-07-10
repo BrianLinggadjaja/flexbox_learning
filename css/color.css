@@ -1,0 +1,47 @@
+.white {
+	background-color: rgb(245, 245, 245);
+}
+
+.grey {
+	background-color: rgb(75, 75, 75);
+}
+
+.silver {
+	background-color: rgb(215, 215, 215);
+}
+
+.red {
+	background-color: rgb(205, 18, 38);
+}
+
+.gold {
+	background-color: rgb(245, 165, 35);
+}
+
+.yellow {
+	background-color: rgb(248, 230, 28);
+}
+
+.green {
+	background-color: rgb(65, 118, 5);
+}
+
+.lime {
+	background-color: rgb(126, 210, 34);
+}
+
+.blue {
+	background-color: rgb(75, 145, 226);
+}
+
+.teal {
+	background-color: rgb(80, 228, 195);
+}
+
+.purple {
+	background-color: rgb(190, 15, 225);
+}
+
+.violet {
+	background-color: rgb(145, 20, 255);
+}

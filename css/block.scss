@@ -1,0 +1,71 @@
+/*  
+  BLOCK SIZING 
+*/
+$xl: 400px;
+$l: 200px;
+$m: 100px;
+$s: 50px;
+
+/* Block Extra Large */
+.b-xl,
+.b-xl-xl,
+.b-xl-l,
+.b-xl-m,
+.b-xl-s {
+  height: $xl;
+}
+
+.b-xl-xl,
+.b-l-xl,
+.b-m-xl,
+.b-s-xl {
+  width: $xl;
+}
+
+/* Block Large */
+.b-l,
+.b-l-xl,
+.b-l-l,
+.b-l-m,
+.b-l-s {
+  height: $l;
+}
+
+.b-xl-l,
+.b-l-l,
+.b-m-l,
+.b-s-l {
+  width: $l;
+}
+
+/* Block Medium */
+.b-m,
+.b-m-xl,
+.b-m-l,
+.b-m-m,
+.b-m-s {
+  height: $m;
+}
+
+.b-xl-m,
+.b-l-m,
+.b-m-m,
+.b-s-m {
+  width: $m;
+}
+
+/* Block Small */
+.b-s,
+.b-s-xl,
+.b-s-l,
+.b-s-m,
+.b-s-s {
+  height: $s;
+}
+
+.b-xl-s,
+.b-l-s,
+.b-m-s,
+.b-s-s {
+  width: $s;
+}

@@ -1,0 +1,143 @@
+/* Global */
+html, 
+body {
+	font-family: 'Arial', sans-serif;
+	font-size: 62.5%;
+	height: 100%;
+	width: 100%;
+}
+
+* {
+	text-decoration: none;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.container {
+  width: 94%;
+  margin: 0 auto;
+}
+
+.row {
+  position: relative;
+  display: -webkit-flex;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.column {
+  position: relative;
+  display: -webkit-flex;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+/* Positioning */
+.center {
+  align-items: center;
+}
+
+/* Typography */
+h1 {
+  font-size: 4.25rem;
+}
+
+h2 {
+  font-size: 3.75rem;
+}
+
+h3 {
+  font-size: 3.25rem;
+}
+
+h4 {
+  font-size: 2.75rem;
+}
+
+h5 {
+  font-size: 2.25rem;
+}
+
+h6 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.5rem;
+  line-height: 1.8;
+}
+
+/* Font Weight */
+.f-light, 
+p {
+  font-weight: 200;
+}
+
+.f-normal {
+  font-weight: 300;
+}
+
+.f-medium {
+  font-weight: 400;
+}
+
+.f-bold {
+  font-weight: 700;
+}
+
+/* Layout */
+.hidden {
+  display: none;
+}
+
+.b-1 {
+  width: 8.33%;
+}
+
+.b-2 {
+  width: 16.66%;
+}
+
+.b-3 {
+  width: 25%;
+}
+
+.b-4 {
+  width: 33.33%;
+}
+
+.b-5 {
+  width: 41.66%;
+}
+
+.b-6 {
+  width: 50%;
+}
+
+.b-7 {
+  width: 58.33%;
+}
+
+.b-8 {
+  width: 66.66%;
+}
+
+.b-9 {
+  width: 75%;
+}
+
+.b-10 {
+  width: 83.34%;
+}
+
+.b-11 {
+  width: 91.67%;
+}
+
+.b-12 {
+  width: 100%;
+}
