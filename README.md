@@ -1,5 +1,5 @@
 # Floats and Positioning
-This project consist of html, css, and sass/scss with the intent of developing my front-end skills.
+This project consist of html, css, and sass/scss with the intent of learning flex-box
 
 ## index.html
 Contains the actual content for this layout.
