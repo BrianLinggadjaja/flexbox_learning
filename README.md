@@ -1,7 +1,8 @@
 # Flexbox Learning
-This project consist of html, css, and sass/scss with the intent of learning flex-box
+Original Year of Creation: 2018
 
-[Hosted on GitHub Pages](https://brianlinggadjaja.github.io/flexbox_learning/)
+Hosted on **GitHub Pages** at
+https://repository-images.githubusercontent.com/140443544/f11c8c00-85ca-11eb-894c-e6c9f1fded4a
 
 
 ![Flexbox Learning Splash](https://repository-images.githubusercontent.com/140443544/f11c8c00-85ca-11eb-894c-e6c9f1fded4a)
